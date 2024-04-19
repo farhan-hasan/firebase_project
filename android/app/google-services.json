@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92514860692",
+    "project_id": "ostad-7c47a",
+    "storage_bucket": "ostad-7c47a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92514860692:android:0a32dc9c387fba4ca9fe81",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3xK7IuH8wLgsgz9SF9X2qXv66pSFjtf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
