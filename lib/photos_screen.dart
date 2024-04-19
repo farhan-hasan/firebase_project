@@ -104,5 +104,10 @@ class _PhotosScreenState extends State<PhotosScreen> {
       _uploadInProgress = false;
       setState(() {});
     }
+
+    else {
+      _uploadInProgress = false;
+      setState(() {});
+    }
   }
 }
